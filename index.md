@@ -2,6 +2,6 @@
 - [Github](https://github.com/oliverbarnes)
 - [Linkedin](https://www.linkedin.com/in/oliverbarnes/)
 
-Working the web since 1998, rubyist and API developer for the past 10+ years. Well-versed on agile processes, and recently more involved in DevOps.
+Working the web since 1998, rubyist and API developer for the past 10+ years. Well-versed in agile processes, and recently more involved in DevOps.
 
 Building a [Liquid Voting Service](https://medium.com/@oliver_azevedo_barnes/liquid-voting-as-a-service-c6e17b81ac1b).
