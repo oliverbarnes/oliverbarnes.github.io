@@ -1,4 +1,6 @@
-[Medium](https://medium.com/@oliver_azevedo_barnes) | [Github](https://github.com/oliverbarnes) | [Linkedin](https://www.linkedin.com/in/oliverbarnes/)
+- [Medium](https://medium.com/@oliver_azevedo_barnes)
+- [Github](https://github.com/oliverbarnes)
+- [Linkedin](https://www.linkedin.com/in/oliverbarnes/)
 
 Working the web since 1998, rubyist and API developer for the past 10+ years. Well-versed on agile processes, and recently more involved in DevOps.
 
