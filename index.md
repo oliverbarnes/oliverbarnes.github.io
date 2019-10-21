@@ -4,4 +4,4 @@
 
 Working the web since 1998, rubyist and API developer for the past 10+ years. Well-versed on agile processes, and recently more involved with DevOps.
 
-Building a [Liquid Voting as a Service](https://github.com/oliverbarnes/liquid-voting-service).
+Building a [Liquid Voting as a Service](https://medium.com/@oliver_azevedo_barnes/liquid-voting-as-a-service-c6e17b81ac1b).
