@@ -1,6 +1,3 @@
-## Oliver Azevedo Barnes
-Remote Software Engineer for Hire
-
 [Medium](https://medium.com/@oliver_azevedo_barnes)
 [Github](https://github.com/oliverbarnes)
 [Linkedin](https://www.linkedin.com/in/oliverbarnes/)
