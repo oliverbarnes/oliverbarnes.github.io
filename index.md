@@ -1,4 +1,4 @@
-Building [liquidvoting.io](https://liquidvoting.io/), a Liquid Democracy component for democractic platforms.
+Building [liquidvoting.io](https://liquidvoting.io/), a Liquid Democracy component for digital decision-making platforms.
 
 Rubyist and API developer for the past ten years. Elixirist, DevOps/SRE for the past two. Well-versed in agile processes, with some experience in Digital Transformation.
 
