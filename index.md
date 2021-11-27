@@ -1,7 +1,14 @@
-Building [liquidvoting.io](https://liquidvoting.io/), a Liquid Democracy component for digital decision-making platforms.
+Currently working as a [DockYard](https://dockyard.com/) consultant at Apple.
 
-Rubyist and API developer for the past ten years. Elixirist, DevOps/SRE for the past two. Well-versed in agile processes, with some experience in Digital Transformation.
+Previously, for a couple of years I worked on a[open source Liquid Democracy API](https://github.com/liquidvotingio/api) for digital decision-making platforms.
 
-Open to contract and full-time senior or management positions. Please connect with me on [Linkedin](https://www.linkedin.com/in/oliverbarnes/) to discuss potential work.
+And previous to that, I was consultant for [simplabs](https://simplabs.com/) for a few years. Please see my [Linkedin profile](https://www.linkedin.com/in/oliverbarnes/) for more on my experience.
+
+Specialties:
+- API development
+- Ruby and Elixir
+- DevOps
+- Engineering management
+
 
 [Medium](https://medium.com/@oliver_azevedo_barnes) - [Github](https://github.com/oliverbarnes) - [Linkedin](https://www.linkedin.com/in/oliverbarnes/) - [Twitter](https://twitter.com/oliverbarnes)
