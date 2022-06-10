@@ -2,7 +2,7 @@ Currently working as a [DockYard](https://dockyard.com/) consultant at Apple.
 
 Previously, for a couple of years I worked on an [open source Liquid Democracy API](https://github.com/liquidvotingio/api) for digital decision-making platforms.
 
-And previous to that, I was consultant for [simplabs](https://simplabs.com/) for a few years. Please see my [Linkedin profile](https://www.linkedin.com/in/oliverbarnes/) for more on my experience.
+And previous to that, I was a consultant for [simplabs](https://simplabs.com/) for a few years. Please see my [Linkedin profile](https://www.linkedin.com/in/oliverbarnes/) for more on my experience.
 
 Specialties:
 - API development
