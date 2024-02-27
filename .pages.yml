@@ -1,9 +1,0 @@
-content:
-  - name: home
-    label: Home Page
-    type: file
-    path: index.md
-    format: markdown
-    fields: 
-      - { name: body, type: rich-text }
-  
