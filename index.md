@@ -34,4 +34,4 @@ For a couple of years I worked on an [open source Liquid Democracy API](https://
 
 If you'd like to contact me about a potential project, please send me a private message on [Linkedin](https://www.linkedin.com/in/oliverbarnes/).
 
-Last but not least, here's my[Github profile](https://github.com/oliverbarnes).
+Last but not least, here's my [Github profile](https://github.com/oliverbarnes).
