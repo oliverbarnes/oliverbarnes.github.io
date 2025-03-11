@@ -1,5 +1,3 @@
-# Oliver Barnes
-
 ## Latest
 
 Project: [reStations - an OSDM Places API](https://github.com/oliverbarnes/reStations)
