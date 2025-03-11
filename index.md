@@ -1,16 +1,18 @@
-# Latest
+# Oliver Barnes
+
+## Latest
 
 Project: [reStations - an OSDM Places API](https://github.com/oliverbarnes/reStations)
 
 Blog post: [Preparing the Terrain for Successful Engagements](https://mainmatter.com/blog/2024/07/29/preparing-the-terrain-for-successful-engagements/)
 
-# About Me
+## About Me
 
 **Generalist** developer with a strong focus on **web API development**, and experience with frontends, team management, devops, and product. Increasingly involved in the **transformation** of teams and architectures.
 
 Main domains: transport (**rail**, mostly), finance, ecommerce, education and publishing.
 
-Some clients: **Apple**, **Trainline**, **Bluecode** and **JPMorgan**.
+Some clients: **Apple**, **JPMorgan**, **Bluecode**, **Trainline** and **Rail Europe**.
 
 Consultancies: [Mainmatter](https://mainmatter.com/) and [Dockyard](https://dockyard.com/).
 
