@@ -1,10 +1,10 @@
-## Latest
+# Latest
 
 Project: [reStations - an OSDM Places API](https://github.com/oliverbarnes/reStations)
 
 Blog post: [Preparing the Terrain for Successful Engagements](https://mainmatter.com/blog/2024/07/29/preparing-the-terrain-for-successful-engagements/)
 
-## About Me
+# About Me
 
 **Generalist** developer with a strong focus on **web API development**, and experience with frontends, team management, devops, and product. Increasingly involved in the **transformation** of teams and architectures.
 
@@ -22,7 +22,7 @@ Also delivered a couple of commercial projects in **Elixir**, dabbled with **Elm
 
 I am currently working on open source **Rust** projects.
 
-**What else...**
+## What else...
 
 In a past life I was a **History** major and a **photographer**.
 
