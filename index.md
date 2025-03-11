@@ -14,7 +14,9 @@ Some clients: **Apple**, **JPMorgan**, **Bluecode**, **Trainline** and **Rail Eu
 
 Consultancies: [Mainmatter](https://mainmatter.com/) and [Dockyard](https://dockyard.com/).
 
-I work in the US and European markets.
+I work in the **US and European markets**.
+
+I've worked on several **large-scale, high traffic applications**.
 
 I have been coding in **Ruby** for well over a decade, on several projects with long-lived Rails monoliths. Lately doing a lot of **performance tuning**.
 
