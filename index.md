@@ -4,6 +4,12 @@ Project: [reStations - an OSDM Places API written in Rust](https://github.com/ol
 
 Blog post: [Preparing the Terrain for Successful Engagements](https://mainmatter.com/blog/2024/07/29/preparing-the-terrain-for-successful-engagements/)
 
+## Links
+
+- [GitHub](https://github.com/oliverbarnes)
+- [LinkedIn](https://www.linkedin.com/in/oliverbarnes/)
+- [Bluesky](https://bsky.app/profile/oliverbarnes.dev)
+
 ## About Me
 
 **Generalist** developer with a strong focus on **web API development**, and experience with frontends, team management, devops, and product. Increasingly involved in the **transformation** of teams and architectures.
@@ -33,7 +39,3 @@ I am **Brazilian/American**, binational.
 Besides **native English and Portuguese**, I speak (passable) **Catalan**, **Spanish**, **French** and **Italian**.
 
 For a couple of years I worked on an [open source Liquid Democracy API](https://github.com/liquidvotingio/api) for democratic decision-making platforms like [Decidim](https://decidim.org/) with a few friends and colleagues. The project didn't quite take off, but I learned a lot about this ecosystem that shows promise amidst the current dystopia of social-networks rage politics and surveillance. And about open source in general while at it.
-
-If you'd like to contact me about a potential project, please send me a private message on [Linkedin](https://www.linkedin.com/in/oliverbarnes/).
-
-Last but not least, here's my [Github profile](https://github.com/oliverbarnes).
