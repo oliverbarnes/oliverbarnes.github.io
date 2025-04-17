@@ -32,7 +32,7 @@ I am currently working on open source **Rust** projects.
 
 ## What else...
 
-In a past life I was a **History** major and a **photographer**.
+In a past life I was a **History** major at the [University of São Paulo](https://www5.usp.br/) (Brazil), and studied **photography** at the [International Center of Photography](https://www.icp.org/) in New York.
 
 I am **Brazilian/American**, binational.
 
