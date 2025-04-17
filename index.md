@@ -1,10 +1,10 @@
-Follow me on [GitHub](https://github.com/oliverbarnes), [LinkedIn](https://www.linkedin.com/in/oliverbarnes/) and [Bluesky](https://bsky.app/profile/oliverbarnes.dev)
+Follow me on [GitHub](https://github.com/oliverbarnes), [LinkedIn](https://www.linkedin.com/in/oliverbarnes/) and [Bluesky](https://bsky.app/profile/oliverbarnes.dev).
 
 ## Latest
 
-Project: [reStations - an OSDM Places API written in Rust](https://github.com/oliverbarnes/reStations)
+Project: [reStations - an OSDM Places API written in Rust](https://github.com/oliverbarnes/reStations).
 
-Blog post: [Preparing the Terrain for Successful Engagements](https://mainmatter.com/blog/2024/07/29/preparing-the-terrain-for-successful-engagements/)
+Blog post: [Preparing the Terrain for Successful Engagements](https://mainmatter.com/blog/2024/07/29/preparing-the-terrain-for-successful-engagements/).
 
 
 ## About Me
