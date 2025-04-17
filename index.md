@@ -6,9 +6,9 @@ Blog post: [Preparing the Terrain for Successful Engagements](https://mainmatter
 
 ## Links
 
-- [GitHub](https://github.com/oliverbarnes)
-- [LinkedIn](https://www.linkedin.com/in/oliverbarnes/)
-- [Bluesky](https://bsky.app/profile/oliverbarnes.dev)
+[GitHub](https://github.com/oliverbarnes)
+[LinkedIn](https://www.linkedin.com/in/oliverbarnes/)
+[Bluesky](https://bsky.app/profile/oliverbarnes.dev)
 
 ## About Me
 
