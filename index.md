@@ -2,7 +2,9 @@ Follow me on [GitHub](https://github.com/oliverbarnes), [LinkedIn](https://www.l
 
 ## Latest
 
-Project: [reStations - an OSDM Places API written in Rust](https://github.com/oliverbarnes/reStations).
+Contributions to open source projects:
+- [Tensorzero - data & learning flywheel for LLMs (Rust)](https://github.com/tensorzero/tensorzero)
+- [reStations - an OSDM Places API written in Rust](https://github.com/oliverbarnes/reStations).
 
 Blog post: [Preparing the Terrain for Successful Engagements](https://mainmatter.com/blog/2024/07/29/preparing-the-terrain-for-successful-engagements/).
 
