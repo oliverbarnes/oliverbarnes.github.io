@@ -11,7 +11,7 @@ Blog post: [Preparing the Terrain for Successful Engagements](https://mainmatter
 
 Reading: [AI Engineering, by Chip Huyen](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 
-Following: [Gergely Orosz](https://newsletter.pragmaticengineer.com/about)
+Following: [Charity Majors](https://charity.wtf/) and [Gergely Orosz](https://newsletter.pragmaticengineer.com/about)
 
 ## About Me
 
