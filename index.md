@@ -4,6 +4,7 @@ Follow me on [GitHub](https://github.com/oliverbarnes), [LinkedIn](https://www.l
 
 Contributions to open source projects:
 - [Zed - open source code editor with AI integration (Rust)](https://github.com/zed-industries/zed/pulls?q=is%3Apr+author%3Aoliverbarnes)
+- [Pavex - a Rust framework for building web APIs](https://github.com/LukeMathWalker/pavex/pulls?q=is%3Apr+author%3Aoliverbarnes)
 - [Tensorzero - data & learning flywheel for LLMs (Rust)](https://github.com/tensorzero/tensorzero/pulls?q=is%3Apr+author%3Aoliverbarnes+is%3Amerged+)
 - [reStations - an OSDM Places API (Rust)](https://github.com/mainmatter/reStations/pulls?q=is%3Apr+is%3Amerged+author%3Aoliverbarnes+)
 
