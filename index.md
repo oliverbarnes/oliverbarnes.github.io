@@ -2,11 +2,11 @@ Follow me on [GitHub](https://github.com/oliverbarnes), [LinkedIn](https://www.l
 
 ## Latest
 
-Contributions to open source projects:
-- [Zed - open source code editor with AI integration (Rust)](https://github.com/zed-industries/zed/pulls?q=is%3Apr+author%3Aoliverbarnes)
+Contributions to Rust open source projects:
+- [Zed - open source code editor with AI integration](https://github.com/zed-industries/zed/pulls?q=is%3Apr+author%3Aoliverbarnes)
 - [Pavex - a Rust framework for building web APIs](https://github.com/LukeMathWalker/pavex/pulls?q=is%3Apr+author%3Aoliverbarnes)
-- [Tensorzero - data & learning flywheel for LLMs (Rust)](https://github.com/tensorzero/tensorzero/pulls?q=is%3Apr+author%3Aoliverbarnes+is%3Amerged+)
-- [reStations - an OSDM Places API (Rust)](https://github.com/mainmatter/reStations/pulls?q=is%3Apr+is%3Amerged+author%3Aoliverbarnes+)
+- [Tensorzero - data & learning flywheel for LLMs](https://github.com/tensorzero/tensorzero/pulls?q=is%3Apr+author%3Aoliverbarnes+is%3Amerged+)
+- [reStations - an OSDM Places API](https://github.com/mainmatter/reStations/pulls?q=is%3Apr+is%3Amerged+author%3Aoliverbarnes+)
 
 Blog post: [Preparing the Terrain for Successful Engagements](https://mainmatter.com/blog/2024/07/29/preparing-the-terrain-for-successful-engagements/).
 
